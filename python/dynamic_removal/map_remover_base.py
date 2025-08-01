@@ -9,7 +9,6 @@ from utils.session import Session
 from utils.session_map import SessionMap
 from utils.logger import logger
 
-
 class MapRemover:
     def __init__(
         self, 
@@ -63,7 +62,10 @@ class MapRemover:
             scan = np.asarray(self.session_loader[i].get().points)
             pose = self.session_loader.get_pose(i)[:3, 3]
             
+            import time
+            
             # occupied space update
+            occupide_start_time = time.perf_counter()
             dists, inds = anchor_kdtree.query(scan, k=p_dor["num_k"])
             for j in range(len(dists)):
                 dist = dists[j]
@@ -73,8 +75,12 @@ class MapRemover:
                     eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
                 )
                 anchor_eph_l[inds[j]] = eph_l_new
-
+            occupied_end_time = time.perf_counter()
+            
             # free space update
+            
+            # Time 1
+            free_start_time = time.perf_counter()
             shifted_scan = scan - pose # local coordinates
             sample_ratios = np.linspace(p_dor["min_ratio"], p_dor["max_ratio"], p_dor["num_samples"])
             free_space_samples = pose + shifted_scan[:, np.newaxis, :] * sample_ratios.T[np.newaxis, :, np.newaxis]
@@ -83,7 +89,15 @@ class MapRemover:
             free_space_samples_o3d.points = o3d.utility.Vector3dVector(free_space_samples)
             free_space_samples_o3d = free_space_samples_o3d.voxel_down_sample(voxel_size=0.1)
             free_space_samples = np.asarray(free_space_samples_o3d.points)
+            
+            # Time 2
+            #free_space_samples = np.concatenate([free_space_samples, free_space_samples], axis=0)  # to avoid memory allocation issues
+            free_before_tree_time = time.perf_counter()
             dists, inds = anchor_kdtree.query(free_space_samples, k=p_dor["num_k"])
+            free_after_tree_time = time.perf_counter()
+            
+            
+            # Time 3
             for j in range(len(dists)):
                 dist = dists[j]
                 eph_l_prev = anchor_eph_l[inds[j]]
@@ -92,7 +106,17 @@ class MapRemover:
                     eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
                 )
                 anchor_eph_l[inds[j]] = eph_l_new
-
+            free_end_time = time.perf_counter()
+            
+            # Result
+            logger.debug(f"Occupied space update time: {occupied_end_time - occupide_start_time:.4f} seconds")  # 0.5s
+            logger.debug(f"Free space update time1: {free_before_tree_time - free_start_time:.4f} seconds")    # 0.5s
+            logger.debug(f"Free space update time2: {free_after_tree_time - free_before_tree_time:.4f} seconds")  # 17s
+            logger.debug(f"Free space update time3: {free_end_time - free_after_tree_time:.4f} seconds")   # 8s
+            
+            logger.debug(f"free space sample size : {free_space_samples.shape[0]} | anchor sample size : {len(anchor_points.points)}")
+            
+            
         # 3) Propagate anchor local ephemerality to session map
         distances, indices = anchor_kdtree.query(np.asarray(session_map.points), k=p_dor["num_k"])
         distances = np.maximum(distances, 1e-6) # avoid division by zero

@@ -1,0 +1,237 @@
+2025-08-01 17:58:47 | DEBUG | Processing scan 1/703
+2025-08-01 17:59:16 | DEBUG | noneffect_hit=0.0%, miss=100.0%
+2025-08-01 17:59:16 | INFO | Cache size : noneffect=878111  |  Memory usage: 3025.25 MB
+2025-08-01 17:59:16 | INFO | Occupied space update time: 0.65 s  |  Free space update time: 28.45 s
+2025-08-01 17:59:16 | INFO | 
+2025-08-01 17:59:16 | DEBUG | Processing scan 4/703
+2025-08-01 17:59:40 | DEBUG | noneffect_hit=15.4%, miss=84.6%
+2025-08-01 17:59:40 | INFO | Cache size : noneffect=1619520  |  Memory usage: 3196.25 MB
+2025-08-01 17:59:40 | INFO | Occupied space update time: 0.58 s  |  Free space update time: 23.14 s
+2025-08-01 17:59:40 | INFO | 
+2025-08-01 17:59:40 | DEBUG | Processing scan 7/703
+2025-08-01 18:00:02 | DEBUG | noneffect_hit=24.9%, miss=75.1%
+2025-08-01 18:00:02 | INFO | Cache size : noneffect=2254368  |  Memory usage: 3350.15 MB
+2025-08-01 18:00:02 | INFO | Occupied space update time: 0.59 s  |  Free space update time: 20.85 s
+2025-08-01 18:00:02 | INFO | 
+2025-08-01 18:00:02 | DEBUG | Processing scan 10/703
+2025-08-01 18:00:22 | DEBUG | noneffect_hit=31.2%, miss=68.8%
+2025-08-01 18:00:22 | INFO | Cache size : noneffect=2827713  |  Memory usage: 3647.08 MB
+2025-08-01 18:00:22 | INFO | Occupied space update time: 0.63 s  |  Free space update time: 20.25 s
+2025-08-01 18:00:22 | INFO | 
+2025-08-01 18:00:22 | DEBUG | Processing scan 13/703
+2025-08-01 18:00:43 | DEBUG | noneffect_hit=30.8%, miss=69.2%
+2025-08-01 18:00:43 | INFO | Cache size : noneffect=3410400  |  Memory usage: 3787.00 MB
+2025-08-01 18:00:43 | INFO | Occupied space update time: 0.56 s  |  Free space update time: 19.91 s
+2025-08-01 18:00:43 | INFO | 
+2025-08-01 18:00:43 | DEBUG | Processing scan 16/703
+2025-08-01 18:01:03 | DEBUG | noneffect_hit=34.3%, miss=65.7%
+2025-08-01 18:01:03 | INFO | Cache size : noneffect=3968519  |  Memory usage: 3927.25 MB
+2025-08-01 18:01:03 | INFO | Occupied space update time: 0.57 s  |  Free space update time: 19.86 s
+2025-08-01 18:01:03 | INFO | 
+2025-08-01 18:01:03 | DEBUG | Processing scan 19/703
+2025-08-01 18:01:25 | DEBUG | noneffect_hit=36.5%, miss=63.5%
+2025-08-01 18:01:25 | INFO | Cache size : noneffect=4535159  |  Memory usage: 4065.50 MB
+2025-08-01 18:01:25 | INFO | Occupied space update time: 0.57 s  |  Free space update time: 20.74 s
+2025-08-01 18:01:25 | INFO | 
+2025-08-01 18:01:25 | DEBUG | Processing scan 22/703
+2025-08-01 18:01:48 | DEBUG | noneffect_hit=34.8%, miss=65.2%
+2025-08-01 18:01:48 | INFO | Cache size : noneffect=5142983  |  Memory usage: 4215.50 MB
+2025-08-01 18:01:48 | INFO | Occupied space update time: 0.56 s  |  Free space update time: 22.35 s
+2025-08-01 18:01:48 | INFO | 
+2025-08-01 18:01:48 | DEBUG | Processing scan 25/703
+2025-08-01 18:02:13 | DEBUG | noneffect_hit=33.7%, miss=66.3%
+2025-08-01 18:02:13 | INFO | Cache size : noneffect=5775030  |  Memory usage: 4555.40 MB
+2025-08-01 18:02:13 | INFO | Occupied space update time: 0.62 s  |  Free space update time: 24.98 s
+2025-08-01 18:02:13 | INFO | 
+2025-08-01 18:02:13 | DEBUG | Processing scan 28/703
+2025-08-01 18:02:40 | DEBUG | noneffect_hit=34.0%, miss=66.0%
+2025-08-01 18:02:40 | INFO | Cache size : noneffect=6406640  |  Memory usage: 4746.24 MB
+2025-08-01 18:02:40 | INFO | Occupied space update time: 0.61 s  |  Free space update time: 25.91 s
+2025-08-01 18:02:40 | INFO | 
+2025-08-01 18:02:40 | DEBUG | Processing scan 31/703
+2025-08-01 18:03:02 | DEBUG | noneffect_hit=35.2%, miss=64.8%
+2025-08-01 18:03:02 | INFO | Cache size : noneffect=7000940  |  Memory usage: 4931.37 MB
+2025-08-01 18:03:02 | INFO | Occupied space update time: 0.60 s  |  Free space update time: 22.11 s
+2025-08-01 18:03:02 | INFO | 
+2025-08-01 18:03:02 | DEBUG | Processing scan 34/703
+2025-08-01 18:03:25 | DEBUG | noneffect_hit=36.7%, miss=63.3%
+2025-08-01 18:03:25 | INFO | Cache size : noneffect=7602552  |  Memory usage: 5097.66 MB
+2025-08-01 18:03:25 | INFO | Occupied space update time: 0.56 s  |  Free space update time: 21.60 s
+2025-08-01 18:03:25 | INFO | 
+2025-08-01 18:03:25 | DEBUG | Processing scan 37/703
+2025-08-01 18:03:44 | DEBUG | noneffect_hit=38.4%, miss=61.6%
+2025-08-01 18:03:44 | INFO | Cache size : noneffect=8160941  |  Memory usage: 5258.33 MB
+2025-08-01 18:03:44 | INFO | Occupied space update time: 0.53 s  |  Free space update time: 19.20 s
+2025-08-01 18:03:44 | INFO | 
+2025-08-01 18:03:44 | DEBUG | Processing scan 40/703
+2025-08-01 18:04:03 | DEBUG | noneffect_hit=39.0%, miss=61.0%
+2025-08-01 18:04:03 | INFO | Cache size : noneffect=8685187  |  Memory usage: 5411.46 MB
+2025-08-01 18:04:03 | INFO | Occupied space update time: 0.52 s  |  Free space update time: 18.41 s
+2025-08-01 18:04:03 | INFO | 
+2025-08-01 18:04:03 | DEBUG | Processing scan 43/703
+2025-08-01 18:04:23 | DEBUG | noneffect_hit=39.4%, miss=60.6%
+2025-08-01 18:04:23 | INFO | Cache size : noneffect=9184594  |  Memory usage: 5556.08 MB
+2025-08-01 18:04:23 | INFO | Occupied space update time: 0.53 s  |  Free space update time: 19.23 s
+2025-08-01 18:04:23 | INFO | 
+2025-08-01 18:04:23 | DEBUG | Processing scan 46/703
+2025-08-01 18:04:44 | DEBUG | noneffect_hit=39.8%, miss=60.2%
+2025-08-01 18:04:44 | INFO | Cache size : noneffect=9697324  |  Memory usage: 5703.60 MB
+2025-08-01 18:04:44 | INFO | Occupied space update time: 0.81 s  |  Free space update time: 19.99 s
+2025-08-01 18:04:44 | INFO | 
+2025-08-01 18:04:44 | DEBUG | Processing scan 49/703
+2025-08-01 18:05:06 | DEBUG | noneffect_hit=41.5%, miss=58.5%
+2025-08-01 18:05:06 | INFO | Cache size : noneffect=10179379  |  Memory usage: 5850.16 MB
+2025-08-01 18:05:06 | INFO | Occupied space update time: 0.57 s  |  Free space update time: 21.36 s
+2025-08-01 18:05:06 | INFO | 
+2025-08-01 18:05:06 | DEBUG | Processing scan 52/703
+2025-08-01 18:05:25 | DEBUG | noneffect_hit=40.6%, miss=59.4%
+2025-08-01 18:05:25 | INFO | Cache size : noneffect=10667222  |  Memory usage: 5997.99 MB
+2025-08-01 18:05:25 | INFO | Occupied space update time: 0.63 s  |  Free space update time: 18.60 s
+2025-08-01 18:05:25 | INFO | 
+2025-08-01 18:05:25 | DEBUG | Processing scan 55/703
+2025-08-01 18:05:43 | DEBUG | noneffect_hit=40.2%, miss=59.8%
+2025-08-01 18:05:43 | INFO | Cache size : noneffect=11144390  |  Memory usage: 6135.72 MB
+2025-08-01 18:05:43 | INFO | Occupied space update time: 0.51 s  |  Free space update time: 17.01 s
+2025-08-01 18:05:43 | INFO | 
+2025-08-01 18:05:43 | DEBUG | Processing scan 58/703
+2025-08-01 18:06:02 | DEBUG | noneffect_hit=38.3%, miss=61.7%
+2025-08-01 18:06:02 | INFO | Cache size : noneffect=11633850  |  Memory usage: 6597.90 MB
+2025-08-01 18:06:02 | INFO | Occupied space update time: 0.50 s  |  Free space update time: 19.14 s
+2025-08-01 18:06:02 | INFO | 
+2025-08-01 18:06:02 | DEBUG | Processing scan 61/703
+2025-08-01 18:06:23 | DEBUG | noneffect_hit=39.7%, miss=60.3%
+2025-08-01 18:06:23 | INFO | Cache size : noneffect=12118816  |  Memory usage: 6734.18 MB
+2025-08-01 18:06:23 | INFO | Occupied space update time: 0.48 s  |  Free space update time: 20.44 s
+2025-08-01 18:06:23 | INFO | 
+2025-08-01 18:06:23 | DEBUG | Processing scan 64/703
+2025-08-01 18:06:44 | DEBUG | noneffect_hit=37.1%, miss=62.9%
+2025-08-01 18:06:44 | INFO | Cache size : noneffect=12601732  |  Memory usage: 6881.25 MB
+2025-08-01 18:06:44 | INFO | Occupied space update time: 0.47 s  |  Free space update time: 20.04 s
+2025-08-01 18:06:44 | INFO | 
+2025-08-01 18:06:44 | DEBUG | Processing scan 67/703
+2025-08-01 18:07:08 | DEBUG | noneffect_hit=30.8%, miss=69.2%
+2025-08-01 18:07:08 | INFO | Cache size : noneffect=13128453  |  Memory usage: 7037.14 MB
+2025-08-01 18:07:08 | INFO | Occupied space update time: 0.48 s  |  Free space update time: 23.49 s
+2025-08-01 18:07:08 | INFO | 
+2025-08-01 18:07:08 | DEBUG | Processing scan 70/703
+2025-08-01 18:07:31 | DEBUG | noneffect_hit=28.3%, miss=71.7%
+2025-08-01 18:07:31 | INFO | Cache size : noneffect=13693780  |  Memory usage: 7206.15 MB
+2025-08-01 18:07:31 | INFO | Occupied space update time: 0.61 s  |  Free space update time: 23.09 s
+2025-08-01 18:07:31 | INFO | 
+2025-08-01 18:07:31 | DEBUG | Processing scan 73/703
+2025-08-01 18:07:54 | DEBUG | noneffect_hit=29.7%, miss=70.3%
+2025-08-01 18:07:54 | INFO | Cache size : noneffect=14242575  |  Memory usage: 7379.89 MB
+2025-08-01 18:07:54 | INFO | Occupied space update time: 0.48 s  |  Free space update time: 22.57 s
+2025-08-01 18:07:54 | INFO | 
+2025-08-01 18:07:54 | DEBUG | Processing scan 76/703
+2025-08-01 18:08:18 | DEBUG | noneffect_hit=26.4%, miss=73.6%
+2025-08-01 18:08:18 | INFO | Cache size : noneffect=14815901  |  Memory usage: 7544.18 MB
+2025-08-01 18:08:18 | INFO | Occupied space update time: 0.52 s  |  Free space update time: 23.54 s
+2025-08-01 18:08:18 | INFO | 
+2025-08-01 18:08:18 | DEBUG | Processing scan 79/703
+2025-08-01 18:08:43 | DEBUG | noneffect_hit=27.2%, miss=72.8%
+2025-08-01 18:08:43 | INFO | Cache size : noneffect=15367892  |  Memory usage: 7701.47 MB
+2025-08-01 18:08:43 | INFO | Occupied space update time: 0.61 s  |  Free space update time: 24.09 s
+2025-08-01 18:08:43 | INFO | 
+2025-08-01 18:08:43 | DEBUG | Processing scan 82/703
+2025-08-01 18:09:05 | DEBUG | noneffect_hit=28.5%, miss=71.5%
+2025-08-01 18:09:05 | INFO | Cache size : noneffect=15925496  |  Memory usage: 7866.10 MB
+2025-08-01 18:09:05 | INFO | Occupied space update time: 0.49 s  |  Free space update time: 21.40 s
+2025-08-01 18:09:05 | INFO | 
+2025-08-01 18:09:05 | DEBUG | Processing scan 85/703
+2025-08-01 18:09:24 | DEBUG | noneffect_hit=33.0%, miss=67.0%
+2025-08-01 18:09:24 | INFO | Cache size : noneffect=16414690  |  Memory usage: 8021.02 MB
+2025-08-01 18:09:24 | INFO | Occupied space update time: 0.47 s  |  Free space update time: 18.88 s
+2025-08-01 18:09:24 | INFO | 
+2025-08-01 18:09:24 | DEBUG | Processing scan 88/703
+
+
+
+
+
+
+
+
+import numpy as np
+import time
+
+cache_miss = 0
+cache_noneffect_hit = 0
+
+# 1. 캐시 hit/miss 분리
+pts_to_query = []
+keys_to_query = []
+query_indices = []  # free_space_samples에서 몇 번째인지 기록
+
+for i, pt in enumerate(free_space_samples):
+    key = voxel_key(pt)
+    if key in noneffect_cache:
+        # 캐시에 이미 있으면 바로 update
+        cache_noneffect_hit += 1
+        inds = noneffect_cache[key]
+        for ind in inds:
+            eph_l_prev = anchor_eph_l[ind]
+            update_rate = self.alpha
+            eph_l_new = eph_l_prev * update_rate / (
+                eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
+            )
+            anchor_eph_l[ind] = eph_l_new
+    else:
+        # 캐시에 없으면 batch query 대상으로 추가
+        cache_miss += 1
+        pts_to_query.append(pt)
+        keys_to_query.append(key)
+        query_indices.append(i)
+
+# 2. batch query (한 번만 호출)
+if len(pts_to_query) > 0:
+    pts_to_query = np.array(pts_to_query)
+    dists_all, inds_all = anchor_kdtree.query(pts_to_query, k=p_dor["num_k"])
+
+    # 3. query 결과를 각 점별로 처리
+    for key, dists, inds in zip(keys_to_query, dists_all, inds_all):
+        dmin = np.min(dists)
+
+        if dmin > threshold:
+            # noneffect_cache에 저장
+            noneffect_cache[key] = inds
+            for ind in inds:
+                eph_l_prev = anchor_eph_l[ind]
+                update_rate = self.alpha
+                eph_l_new = eph_l_prev * update_rate / (
+                    eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
+                )
+                anchor_eph_l[ind] = eph_l_new
+        else:
+            # 가까운 점 업데이트
+            for dist, ind in zip(dists, inds):
+                eph_l_prev = anchor_eph_l[ind]
+                update_rate = np.maximum(
+                    self.alpha * (1 + np.exp(-1 * dist**2 / self.std_dev_f)) - self.beta,
+                    self.alpha,
+                )
+                eph_l_new = eph_l_prev * update_rate / (
+                    eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
+                )
+                anchor_eph_l[ind] = eph_l_new
+
+free_end_time = time.perf_counter()
+
+# 로깅
+total = cache_miss + cache_noneffect_hit
+if total > 0:
+    logger.debug(
+        f"noneffect_hit={cache_noneffect_hit/total:.1%}, "
+        f"miss={cache_miss/total:.1%}"
+    )
+    import psutil, os
+    process = psutil.Process(os.getpid())
+    mem_mb = process.memory_info().rss / (1024**2)
+    logger.info(
+        f"Cache size : noneffect={len(noneffect_cache)}  |  Memory usage: {mem_mb:.2f} MB"
+    )
+    logger.info(
+        f"Occupied space update time: {occupied_end_time - occupied_start_time:.2f} s  |  Free space update time: {free_end_time - free_start_time:.2f} s"
+    )
+    logger.info("")
+

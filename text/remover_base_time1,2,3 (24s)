@@ -1,0 +1,410 @@
+ | INFO | Logger initialized and stderr are now redirected.
+2025-08-01 16:41:12 | INFO | Starting ELite...
+2025-08-01 16:41:12 | INFO | Running Map Zipper...
+2025-08-01 16:41:12 | DEBUG | Loading source session from ./data/parkinglot/01/Scans and ./data/parkinglot/01/poses.txt
+2025-08-01 16:41:12 | INFO | Map Zipper finished.
+2025-08-01 16:41:12 | INFO | Running Map Remover...
+2025-08-01 16:41:12 | INFO | Loaded new session
+2025-08-01 16:41:45 | INFO | Initialized session map
+2025-08-01 16:41:54 | INFO | Updating anchor local ephemerality
+2025-08-01 16:41:54 | DEBUG | Processing scan 1/703
+2025-08-01 16:42:21 | DEBUG | Occupied space update time: 0.5556 seconds
+2025-08-01 16:42:21 | DEBUG | Free space update time1: 0.8508 seconds
+2025-08-01 16:42:21 | DEBUG | Free space update time2: 16.7975 seconds
+2025-08-01 16:42:21 | DEBUG | Free space update time3: 8.3658 seconds
+2025-08-01 16:42:21 | DEBUG | Processing scan 4/703
+2025-08-01 16:42:47 | DEBUG | Occupied space update time: 0.5496 seconds
+2025-08-01 16:42:47 | DEBUG | Free space update time1: 0.7781 seconds
+2025-08-01 16:42:47 | DEBUG | Free space update time2: 16.2395 seconds
+2025-08-01 16:42:47 | DEBUG | Free space update time3: 8.1980 seconds
+2025-08-01 16:42:47 | DEBUG | Processing scan 7/703
+2025-08-01 16:43:14 | DEBUG | Occupied space update time: 0.5403 seconds
+2025-08-01 16:43:14 | DEBUG | Free space update time1: 0.7531 seconds
+2025-08-01 16:43:14 | DEBUG | Free space update time2: 17.2350 seconds
+2025-08-01 16:43:14 | DEBUG | Free space update time3: 8.3561 seconds
+2025-08-01 16:43:14 | DEBUG | Processing scan 10/703
+2025-08-01 16:43:41 | DEBUG | Occupied space update time: 0.6803 seconds
+2025-08-01 16:43:41 | DEBUG | Free space update time1: 0.6398 seconds
+2025-08-01 16:43:41 | DEBUG | Free space update time2: 17.7260 seconds
+2025-08-01 16:43:41 | DEBUG | Free space update time3: 8.3741 seconds
+2025-08-01 16:43:41 | DEBUG | Processing scan 13/703
+2025-08-01 16:44:06 | DEBUG | Occupied space update time: 0.5188 seconds
+2025-08-01 16:44:06 | DEBUG | Free space update time1: 0.4842 seconds
+2025-08-01 16:44:06 | DEBUG | Free space update time2: 16.1416 seconds
+2025-08-01 16:44:06 | DEBUG | Free space update time3: 7.8409 seconds
+2025-08-01 16:44:06 | DEBUG | Processing scan 16/703
+2025-08-01 16:44:31 | DEBUG | Occupied space update time: 0.5186 seconds
+2025-08-01 16:44:31 | DEBUG | Free space update time1: 0.4912 seconds
+2025-08-01 16:44:31 | DEBUG | Free space update time2: 16.1318 seconds
+2025-08-01 16:44:31 | DEBUG | Free space update time3: 8.0908 seconds
+2025-08-01 16:44:31 | DEBUG | Processing scan 19/703
+2025-08-01 16:44:58 | DEBUG | Occupied space update time: 0.5321 seconds
+2025-08-01 16:44:58 | DEBUG | Free space update time1: 0.5099 seconds
+2025-08-01 16:44:58 | DEBUG | Free space update time2: 17.1914 seconds
+2025-08-01 16:44:58 | DEBUG | Free space update time3: 8.4959 seconds
+2025-08-01 16:44:58 | DEBUG | Processing scan 22/703
+2025-08-01 16:45:27 | DEBUG | Occupied space update time: 0.5202 seconds
+2025-08-01 16:45:27 | DEBUG | Free space update time1: 0.5344 seconds
+2025-08-01 16:45:27 | DEBUG | Free space update time2: 19.4533 seconds
+2025-08-01 16:45:27 | DEBUG | Free space update time3: 8.6521 seconds
+2025-08-01 16:45:27 | DEBUG | Processing scan 25/703
+2025-08-01 16:45:57 | DEBUG | Occupied space update time: 0.5308 seconds
+2025-08-01 16:45:57 | DEBUG | Free space update time1: 0.5243 seconds
+2025-08-01 16:45:57 | DEBUG | Free space update time2: 19.6449 seconds
+2025-08-01 16:45:57 | DEBUG | Free space update time3: 8.8015 seconds
+2025-08-01 16:45:57 | DEBUG | Processing scan 28/703
+2025-08-01 16:46:26 | DEBUG | Occupied space update time: 0.5231 seconds
+2025-08-01 16:46:26 | DEBUG | Free space update time1: 0.5289 seconds
+2025-08-01 16:46:26 | DEBUG | Free space update time2: 19.4829 seconds
+2025-08-01 16:46:26 | DEBUG | Free space update time3: 9.3319 seconds
+2025-08-01 16:46:26 | DEBUG | Processing scan 31/703
+2025-08-01 16:47:00 | DEBUG | Occupied space update time: 0.5408 seconds
+2025-08-01 16:47:00 | DEBUG | Free space update time1: 0.8332 seconds
+2025-08-01 16:47:00 | DEBUG | Free space update time2: 22.5473 seconds
+2025-08-01 16:47:00 | DEBUG | Free space update time3: 9.3818 seconds
+2025-08-01 16:47:00 | DEBUG | Processing scan 34/703
+2025-08-01 16:47:28 | DEBUG | Occupied space update time: 0.5635 seconds
+2025-08-01 16:47:28 | DEBUG | Free space update time1: 0.6605 seconds
+2025-08-01 16:47:28 | DEBUG | Free space update time2: 18.1655 seconds
+2025-08-01 16:47:28 | DEBUG | Free space update time3: 8.7242 seconds
+2025-08-01 16:47:28 | DEBUG | Processing scan 37/703
+2025-08-01 16:47:55 | DEBUG | Occupied space update time: 0.5530 seconds
+2025-08-01 16:47:55 | DEBUG | Free space update time1: 0.5195 seconds
+2025-08-01 16:47:55 | DEBUG | Free space update time2: 17.9399 seconds
+2025-08-01 16:47:55 | DEBUG | Free space update time3: 8.5710 seconds
+2025-08-01 16:47:55 | DEBUG | Processing scan 40/703
+2025-08-01 16:48:21 | DEBUG | Occupied space update time: 0.4686 seconds
+2025-08-01 16:48:21 | DEBUG | Free space update time1: 0.4836 seconds
+2025-08-01 16:48:21 | DEBUG | Free space update time2: 16.1090 seconds
+2025-08-01 16:48:21 | DEBUG | Free space update time3: 8.0245 seconds
+2025-08-01 16:48:21 | DEBUG | Processing scan 43/703
+2025-08-01 16:48:46 | DEBUG | Occupied space update time: 0.4625 seconds
+2025-08-01 16:48:46 | DEBUG | Free space update time1: 0.4669 seconds
+2025-08-01 16:48:46 | DEBUG | Free space update time2: 16.4232 seconds
+2025-08-01 16:48:46 | DEBUG | Free space update time3: 8.3932 seconds
+2025-08-01 16:48:46 | DEBUG | Processing scan 46/703
+2025-08-01 16:49:13 | DEBUG | Occupied space update time: 0.4680 seconds
+2025-08-01 16:49:13 | DEBUG | Free space update time1: 0.5047 seconds
+2025-08-01 16:49:13 | DEBUG | Free space update time2: 18.1277 seconds
+2025-08-01 16:49:13 | DEBUG | Free space update time3: 7.8855 seconds
+2025-08-01 16:49:13 | DEBUG | Processing scan 49/703
+2025-08-01 16:49:40 | DEBUG | Occupied space update time: 0.4705 seconds
+2025-08-01 16:49:40 | DEBUG | Free space update time1: 0.4673 seconds
+2025-08-01 16:49:40 | DEBUG | Free space update time2: 17.7715 seconds
+2025-08-01 16:49:40 | DEBUG | Free space update time3: 8.2631 seconds
+2025-08-01 16:49:40 | DEBUG | Processing scan 52/703
+2025-08-01 16:50:08 | DEBUG | Occupied space update time: 0.4819 seconds
+2025-08-01 16:50:08 | DEBUG | Free space update time1: 0.4912 seconds
+2025-08-01 16:50:08 | DEBUG | Free space update time2: 18.2742 seconds
+2025-08-01 16:50:08 | DEBUG | Free space update time3: 8.0062 seconds
+2025-08-01 16:50:08 | DEBUG | Processing scan 55/703
+2025-08-01 16:50:33 | DEBUG | Occupied space update time: 0.4750 seconds
+2025-08-01 16:50:33 | DEBUG | Free space update time1: 0.4676 seconds
+2025-08-01 16:50:33 | DEBUG | Free space update time2: 16.6063 seconds
+2025-08-01 16:50:33 | DEBUG | Free space update time3: 7.9027 seconds
+2025-08-01 16:50:33 | DEBUG | Processing scan 58/703
+2025-08-01 16:50:58 | DEBUG | Occupied space update time: 0.4798 seconds
+2025-08-01 16:50:58 | DEBUG | Free space update time1: 0.4517 seconds
+2025-08-01 16:50:58 | DEBUG | Free space update time2: 16.7044 seconds
+2025-08-01 16:50:58 | DEBUG | Free space update time3: 7.5745 seconds
+2025-08-01 16:50:58 | DEBUG | Processing scan 61/703
+2025-08-01 16:51:24 | DEBUG | Occupied space update time: 0.5107 seconds
+2025-08-01 16:51:24 | DEBUG | Free space update time1: 0.4324 seconds
+2025-08-01 16:51:24 | DEBUG | Free space update time2: 17.3264 seconds
+2025-08-01 16:51:24 | DEBUG | Free space update time3: 7.3578 seconds
+2025-08-01 16:51:24 | DEBUG | Processing scan 64/703
+2025-08-01 16:51:51 | DEBUG | Occupied space update time: 0.4365 seconds
+2025-08-01 16:51:51 | DEBUG | Free space update time1: 0.4403 seconds
+2025-08-01 16:51:51 | DEBUG | Free space update time2: 18.6754 seconds
+2025-08-01 16:51:51 | DEBUG | Free space update time3: 7.3015 seconds
+2025-08-01 16:51:51 | DEBUG | Processing scan 67/703
+2025-08-01 16:52:17 | DEBUG | Occupied space update time: 0.4311 seconds
+2025-08-01 16:52:17 | DEBUG | Free space update time1: 0.4361 seconds
+2025-08-01 16:52:17 | DEBUG | Free space update time2: 18.3838 seconds
+2025-08-01 16:52:17 | DEBUG | Free space update time3: 7.2082 seconds
+2025-08-01 16:52:17 | DEBUG | Processing scan 70/703
+2025-08-01 16:52:43 | DEBUG | Occupied space update time: 0.4219 seconds
+2025-08-01 16:52:43 | DEBUG | Free space update time1: 0.4290 seconds
+2025-08-01 16:52:43 | DEBUG | Free space update time2: 18.0599 seconds
+2025-08-01 16:52:43 | DEBUG | Free space update time3: 7.2209 seconds
+2025-08-01 16:52:43 | DEBUG | Processing scan 73/703
+2025-08-01 16:53:09 | DEBUG | Occupied space update time: 0.4257 seconds
+2025-08-01 16:53:09 | DEBUG | Free space update time1: 0.4348 seconds
+2025-08-01 16:53:09 | DEBUG | Free space update time2: 17.6001 seconds
+2025-08-01 16:53:09 | DEBUG | Free space update time3: 7.3701 seconds
+2025-08-01 16:53:09 | DEBUG | Processing scan 76/703
+2025-08-01 16:53:34 | DEBUG | Occupied space update time: 0.4195 seconds
+2025-08-01 16:53:34 | DEBUG | Free space update time1: 0.4200 seconds
+2025-08-01 16:53:34 | DEBUG | Free space update time2: 17.0651 seconds
+2025-08-01 16:53:34 | DEBUG | Free space update time3: 7.2275 seconds
+2025-08-01 16:53:34 | DEBUG | Processing scan 79/703
+2025-08-01 16:53:58 | DEBUG | Occupied space update time: 0.4087 seconds
+2025-08-01 16:53:58 | DEBUG | Free space update time1: 0.4138 seconds
+2025-08-01 16:53:58 | DEBUG | Free space update time2: 15.9840 seconds
+2025-08-01 16:53:58 | DEBUG | Free space update time3: 6.9576 seconds
+2025-08-01 16:53:58 | DEBUG | Processing scan 82/703
+2025-08-01 16:54:21 | DEBUG | Occupied space update time: 0.4146 seconds
+2025-08-01 16:54:21 | DEBUG | Free space update time1: 0.4129 seconds
+2025-08-01 16:54:21 | DEBUG | Free space update time2: 15.5277 seconds
+2025-08-01 16:54:21 | DEBUG | Free space update time3: 7.0529 seconds
+2025-08-01 16:54:21 | DEBUG | Processing scan 85/703
+2025-08-01 16:54:43 | DEBUG | Occupied space update time: 0.4233 seconds
+2025-08-01 16:54:43 | DEBUG | Free space update time1: 0.4188 seconds
+2025-08-01 16:54:43 | DEBUG | Free space update time2: 14.2684 seconds
+2025-08-01 16:54:43 | DEBUG | Free space update time3: 6.9358 seconds
+2025-08-01 16:54:43 | DEBUG | Processing scan 88/703
+2025-08-01 16:55:05 | DEBUG | Occupied space update time: 0.4159 seconds
+2025-08-01 16:55:05 | DEBUG | Free space update time1: 0.4007 seconds
+2025-08-01 16:55:05 | DEBUG | Free space update time2: 13.5128 seconds
+2025-08-01 16:55:05 | DEBUG | Free space update time3: 6.8171 seconds
+2025-08-01 16:55:05 | DEBUG | Processing scan 91/703
+2025-08-01 16:55:25 | DEBUG | Occupied space update time: 0.4256 seconds
+2025-08-01 16:55:25 | DEBUG | Free space update time1: 0.3979 seconds
+2025-08-01 16:55:25 | DEBUG | Free space update time2: 12.9560 seconds
+2025-08-01 16:55:25 | DEBUG | Free space update time3: 6.8260 seconds
+2025-08-01 16:55:25 | DEBUG | Processing scan 94/703
+2025-08-01 16:55:46 | DEBUG | Occupied space update time: 0.4366 seconds
+2025-08-01 16:55:46 | DEBUG | Free space update time1: 0.4043 seconds
+2025-08-01 16:55:46 | DEBUG | Free space update time2: 12.7915 seconds
+2025-08-01 16:55:46 | DEBUG | Free space update time3: 6.8738 seconds
+2025-08-01 16:55:46 | DEBUG | Processing scan 97/703
+2025-08-01 16:56:06 | DEBUG | Occupied space update time: 0.4414 seconds
+2025-08-01 16:56:06 | DEBUG | Free space update time1: 0.3926 seconds
+2025-08-01 16:56:06 | DEBUG | Free space update time2: 12.7737 seconds
+2025-08-01 16:56:06 | DEBUG | Free space update time3: 6.5952 seconds
+2025-08-01 16:56:06 | DEBUG | Processing scan 100/703
+2025-08-01 16:56:25 | DEBUG | Occupied space update time: 0.4376 seconds
+2025-08-01 16:56:25 | DEBUG | Free space update time1: 0.3183 seconds
+2025-08-01 16:56:25 | DEBUG | Free space update time2: 11.9580 seconds
+2025-08-01 16:56:25 | DEBUG | Free space update time3: 6.3034 seconds
+2025-08-01 16:56:25 | DEBUG | Processing scan 103/703
+2025-08-01 16:56:42 | DEBUG | Occupied space update time: 0.4425 seconds
+2025-08-01 16:56:42 | DEBUG | Free space update time1: 0.2986 seconds
+2025-08-01 16:56:42 | DEBUG | Free space update time2: 10.7415 seconds
+2025-08-01 16:56:42 | DEBUG | Free space update time3: 5.8483 seconds
+2025-08-01 16:56:42 | DEBUG | Processing scan 106/703
+2025-08-01 16:56:58 | DEBUG | Occupied space update time: 0.4588 seconds
+2025-08-01 16:56:58 | DEBUG | Free space update time1: 0.2882 seconds
+2025-08-01 16:56:58 | DEBUG | Free space update time2: 9.4339 seconds
+2025-08-01 16:56:58 | DEBUG | Free space update time3: 5.5551 seconds
+2025-08-01 16:56:58 | DEBUG | Processing scan 109/703
+2025-08-01 16:57:15 | DEBUG | Occupied space update time: 0.4678 seconds
+2025-08-01 16:57:15 | DEBUG | Free space update time1: 0.2974 seconds
+2025-08-01 16:57:15 | DEBUG | Free space update time2: 9.9068 seconds
+2025-08-01 16:57:15 | DEBUG | Free space update time3: 5.9757 seconds
+2025-08-01 16:57:15 | DEBUG | Processing scan 112/703
+2025-08-01 16:57:31 | DEBUG | Occupied space update time: 0.4763 seconds
+2025-08-01 16:57:31 | DEBUG | Free space update time1: 0.3250 seconds
+2025-08-01 16:57:31 | DEBUG | Free space update time2: 9.8210 seconds
+2025-08-01 16:57:31 | DEBUG | Free space update time3: 5.9599 seconds
+2025-08-01 16:57:31 | DEBUG | Processing scan 115/703
+2025-08-01 16:57:48 | DEBUG | Occupied space update time: 0.4962 seconds
+2025-08-01 16:57:48 | DEBUG | Free space update time1: 0.3214 seconds
+2025-08-01 16:57:48 | DEBUG | Free space update time2: 9.5095 seconds
+2025-08-01 16:57:48 | DEBUG | Free space update time3: 6.1626 seconds
+2025-08-01 16:57:48 | DEBUG | Processing scan 118/703
+2025-08-01 16:58:04 | DEBUG | Occupied space update time: 0.4821 seconds
+2025-08-01 16:58:04 | DEBUG | Free space update time1: 0.3188 seconds
+2025-08-01 16:58:04 | DEBUG | Free space update time2: 9.4103 seconds
+2025-08-01 16:58:04 | DEBUG | Free space update time3: 6.0548 seconds
+2025-08-01 16:58:04 | DEBUG | Processing scan 121/703
+2025-08-01 16:58:19 | DEBUG | Occupied space update time: 0.4782 seconds
+2025-08-01 16:58:19 | DEBUG | Free space update time1: 0.3009 seconds
+2025-08-01 16:58:19 | DEBUG | Free space update time2: 8.3312 seconds
+2025-08-01 16:58:19 | DEBUG | Free space update time3: 5.8742 seconds
+2025-08-01 16:58:19 | DEBUG | Processing scan 124/703
+2025-08-01 16:58:32 | DEBUG | Occupied space update time: 0.4812 seconds
+2025-08-01 16:58:32 | DEBUG | Free space update time1: 0.3089 seconds
+2025-08-01 16:58:32 | DEBUG | Free space update time2: 6.3779 seconds
+2025-08-01 16:58:32 | DEBUG | Free space update time3: 5.9976 seconds
+2025-08-01 16:58:32 | DEBUG | Processing scan 127/703
+2025-08-01 16:58:44 | DEBUG | Occupied space update time: 0.3699 seconds
+2025-08-01 16:58:44 | DEBUG | Free space update time1: 0.3609 seconds
+2025-08-01 16:58:44 | DEBUG | Free space update time2: 6.3325 seconds
+2025-08-01 16:58:44 | DEBUG | Free space update time3: 5.1965 seconds
+2025-08-01 16:58:44 | DEBUG | Processing scan 130/703
+2025-08-01 16:58:56 | DEBUG | Occupied space update time: 0.3753 seconds
+2025-08-01 16:58:56 | DEBUG | Free space update time1: 0.4051 seconds
+2025-08-01 16:58:56 | DEBUG | Free space update time2: 5.4709 seconds
+2025-08-01 16:58:56 | DEBUG | Free space update time3: 5.1029 seconds
+2025-08-01 16:58:56 | DEBUG | Processing scan 133/703
+2025-08-01 16:59:08 | DEBUG | Occupied space update time: 0.3759 seconds
+2025-08-01 16:59:08 | DEBUG | Free space update time1: 0.3980 seconds
+2025-08-01 16:59:08 | DEBUG | Free space update time2: 5.5931 seconds
+2025-08-01 16:59:08 | DEBUG | Free space update time3: 5.7703 seconds
+2025-08-01 16:59:08 | DEBUG | Processing scan 136/703
+2025-08-01 16:59:20 | DEBUG | Occupied space update time: 0.3854 seconds
+2025-08-01 16:59:20 | DEBUG | Free space update time1: 0.4803 seconds
+2025-08-01 16:59:20 | DEBUG | Free space update time2: 5.5662 seconds
+2025-08-01 16:59:20 | DEBUG | Free space update time3: 5.7218 seconds
+2025-08-01 16:59:20 | DEBUG | Processing scan 139/703
+2025-08-01 16:59:32 | DEBUG | Occupied space update time: 0.4558 seconds
+2025-08-01 16:59:32 | DEBUG | Free space update time1: 0.4790 seconds
+2025-08-01 16:59:32 | DEBUG | Free space update time2: 5.2287 seconds
+2025-08-01 16:59:32 | DEBUG | Free space update time3: 5.5676 seconds
+2025-08-01 16:59:32 | DEBUG | Processing scan 142/703
+2025-08-01 16:59:44 | DEBUG | Occupied space update time: 0.3659 seconds
+2025-08-01 16:59:44 | DEBUG | Free space update time1: 0.4091 seconds
+2025-08-01 16:59:44 | DEBUG | Free space update time2: 5.1229 seconds
+2025-08-01 16:59:44 | DEBUG | Free space update time3: 5.9204 seconds
+2025-08-01 16:59:44 | DEBUG | Processing scan 145/703
+2025-08-01 16:59:56 | DEBUG | Occupied space update time: 0.3737 seconds
+2025-08-01 16:59:56 | DEBUG | Free space update time1: 0.4207 seconds
+2025-08-01 16:59:56 | DEBUG | Free space update time2: 5.6057 seconds
+2025-08-01 16:59:56 | DEBUG | Free space update time3: 5.9805 seconds
+2025-08-01 16:59:56 | DEBUG | Processing scan 148/703
+2025-08-01 17:00:09 | DEBUG | Occupied space update time: 0.3635 seconds
+2025-08-01 17:00:09 | DEBUG | Free space update time1: 0.4443 seconds
+2025-08-01 17:00:09 | DEBUG | Free space update time2: 5.9389 seconds
+2025-08-01 17:00:09 | DEBUG | Free space update time3: 5.9396 seconds
+2025-08-01 17:00:09 | DEBUG | Processing scan 151/703
+2025-08-01 17:00:21 | DEBUG | Occupied space update time: 0.4118 seconds
+2025-08-01 17:00:21 | DEBUG | Free space update time1: 0.4529 seconds
+2025-08-01 17:00:21 | DEBUG | Free space update time2: 6.0340 seconds
+2025-08-01 17:00:21 | DEBUG | Free space update time3: 5.7404 seconds
+2025-08-01 17:00:21 | DEBUG | Processing scan 154/703
+2025-08-01 17:00:35 | DEBUG | Occupied space update time: 0.3615 seconds
+2025-08-01 17:00:35 | DEBUG | Free space update time1: 0.4741 seconds
+2025-08-01 17:00:35 | DEBUG | Free space update time2: 6.7066 seconds
+2025-08-01 17:00:35 | DEBUG | Free space update time3: 5.9488 seconds
+2025-08-01 17:00:35 | DEBUG | Processing scan 157/703
+2025-08-01 17:00:47 | DEBUG | Occupied space update time: 0.3704 seconds
+2025-08-01 17:00:47 | DEBUG | Free space update time1: 0.4087 seconds
+2025-08-01 17:00:47 | DEBUG | Free space update time2: 6.1121 seconds
+2025-08-01 17:00:47 | DEBUG | Free space update time3: 5.7490 seconds
+2025-08-01 17:00:47 | DEBUG | Processing scan 160/703
+2025-08-01 17:01:01 | DEBUG | Occupied space update time: 0.4135 seconds
+2025-08-01 17:01:01 | DEBUG | Free space update time1: 0.4814 seconds
+2025-08-01 17:01:01 | DEBUG | Free space update time2: 6.7128 seconds
+2025-08-01 17:01:01 | DEBUG | Free space update time3: 6.0282 seconds
+2025-08-01 17:01:01 | DEBUG | Processing scan 163/703
+2025-08-01 17:01:13 | DEBUG | Occupied space update time: 0.3165 seconds
+2025-08-01 17:01:13 | DEBUG | Free space update time1: 0.3960 seconds
+2025-08-01 17:01:13 | DEBUG | Free space update time2: 5.8175 seconds
+2025-08-01 17:01:13 | DEBUG | Free space update time3: 5.3530 seconds
+2025-08-01 17:01:13 | DEBUG | Processing scan 166/703
+2025-08-01 17:01:25 | DEBUG | Occupied space update time: 0.3046 seconds
+2025-08-01 17:01:25 | DEBUG | Free space update time1: 0.3696 seconds
+2025-08-01 17:01:25 | DEBUG | Free space update time2: 5.8436 seconds
+2025-08-01 17:01:25 | DEBUG | Free space update time3: 6.0216 seconds
+2025-08-01 17:01:25 | DEBUG | Processing scan 169/703
+2025-08-01 17:01:39 | DEBUG | Occupied space update time: 0.3638 seconds
+2025-08-01 17:01:39 | DEBUG | Free space update time1: 0.5100 seconds
+2025-08-01 17:01:39 | DEBUG | Free space update time2: 6.9804 seconds
+2025-08-01 17:01:39 | DEBUG | Free space update time3: 5.3869 seconds
+2025-08-01 17:01:39 | DEBUG | Processing scan 172/703
+2025-08-01 17:01:50 | DEBUG | Occupied space update time: 0.3096 seconds
+2025-08-01 17:01:50 | DEBUG | Free space update time1: 0.3878 seconds
+2025-08-01 17:01:50 | DEBUG | Free space update time2: 5.4336 seconds
+2025-08-01 17:01:50 | DEBUG | Free space update time3: 5.0212 seconds
+2025-08-01 17:01:50 | DEBUG | Processing scan 175/703
+2025-08-01 17:02:02 | DEBUG | Occupied space update time: 0.3136 seconds
+2025-08-01 17:02:02 | DEBUG | Free space update time1: 0.3609 seconds
+2025-08-01 17:02:02 | DEBUG | Free space update time2: 5.7867 seconds
+2025-08-01 17:02:02 | DEBUG | Free space update time3: 5.5265 seconds
+2025-08-01 17:02:02 | DEBUG | Processing scan 178/703
+2025-08-01 17:02:13 | DEBUG | Occupied space update time: 0.3094 seconds
+2025-08-01 17:02:13 | DEBUG | Free space update time1: 0.3120 seconds
+2025-08-01 17:02:13 | DEBUG | Free space update time2: 5.0079 seconds
+2025-08-01 17:02:13 | DEBUG | Free space update time3: 5.0933 seconds
+2025-08-01 17:02:13 | DEBUG | Processing scan 181/703
+2025-08-01 17:02:22 | DEBUG | Occupied space update time: 0.3046 seconds
+2025-08-01 17:02:22 | DEBUG | Free space update time1: 0.2963 seconds
+2025-08-01 17:02:22 | DEBUG | Free space update time2: 4.3718 seconds
+2025-08-01 17:02:22 | DEBUG | Free space update time3: 4.5988 seconds
+2025-08-01 17:02:22 | DEBUG | Processing scan 184/703
+2025-08-01 17:02:32 | DEBUG | Occupied space update time: 0.2949 seconds
+2025-08-01 17:02:32 | DEBUG | Free space update time1: 0.2842 seconds
+2025-08-01 17:02:32 | DEBUG | Free space update time2: 4.0666 seconds
+2025-08-01 17:02:32 | DEBUG | Free space update time3: 4.9034 seconds
+2025-08-01 17:02:32 | DEBUG | Processing scan 187/703
+2025-08-01 17:02:41 | DEBUG | Occupied space update time: 0.2967 seconds
+2025-08-01 17:02:41 | DEBUG | Free space update time1: 0.2922 seconds
+2025-08-01 17:02:41 | DEBUG | Free space update time2: 4.1819 seconds
+2025-08-01 17:02:41 | DEBUG | Free space update time3: 4.6869 seconds
+2025-08-01 17:02:41 | DEBUG | Processing scan 190/703
+2025-08-01 17:02:51 | DEBUG | Occupied space update time: 0.3047 seconds
+2025-08-01 17:02:51 | DEBUG | Free space update time1: 0.2969 seconds
+2025-08-01 17:02:51 | DEBUG | Free space update time2: 4.3385 seconds
+2025-08-01 17:02:51 | DEBUG | Free space update time3: 4.8766 seconds
+2025-08-01 17:02:51 | DEBUG | Processing scan 193/703
+2025-08-01 17:03:01 | DEBUG | Occupied space update time: 0.3098 seconds
+2025-08-01 17:03:01 | DEBUG | Free space update time1: 0.3629 seconds
+2025-08-01 17:03:01 | DEBUG | Free space update time2: 4.3683 seconds
+2025-08-01 17:03:01 | DEBUG | Free space update time3: 5.4552 seconds
+2025-08-01 17:03:01 | DEBUG | Processing scan 196/703
+2025-08-01 17:03:12 | DEBUG | Occupied space update time: 0.3377 seconds
+2025-08-01 17:03:12 | DEBUG | Free space update time1: 0.3509 seconds
+2025-08-01 17:03:12 | DEBUG | Free space update time2: 4.6960 seconds
+2025-08-01 17:03:12 | DEBUG | Free space update time3: 5.3886 seconds
+2025-08-01 17:03:12 | DEBUG | Processing scan 199/703
+2025-08-01 17:03:23 | DEBUG | Occupied space update time: 0.3302 seconds
+2025-08-01 17:03:23 | DEBUG | Free space update time1: 0.3642 seconds
+2025-08-01 17:03:23 | DEBUG | Free space update time2: 4.8613 seconds
+2025-08-01 17:03:23 | DEBUG | Free space update time3: 5.3711 seconds
+2025-08-01 17:03:23 | DEBUG | Processing scan 202/703
+2025-08-01 17:03:34 | DEBUG | Occupied space update time: 0.3636 seconds
+2025-08-01 17:03:34 | DEBUG | Free space update time1: 0.3603 seconds
+2025-08-01 17:03:34 | DEBUG | Free space update time2: 5.0401 seconds
+2025-08-01 17:03:34 | DEBUG | Free space update time3: 5.5074 seconds
+2025-08-01 17:03:34 | DEBUG | Processing scan 205/703
+2025-08-01 17:03:46 | DEBUG | Occupied space update time: 0.3495 seconds
+2025-08-01 17:03:46 | DEBUG | Free space update time1: 0.3597 seconds
+2025-08-01 17:03:46 | DEBUG | Free space update time2: 5.2077 seconds
+2025-08-01 17:03:46 | DEBUG | Free space update time3: 5.5157 seconds
+2025-08-01 17:03:46 | DEBUG | Processing scan 208/703
+2025-08-01 17:03:57 | DEBUG | Occupied space update time: 0.3471 seconds
+2025-08-01 17:03:57 | DEBUG | Free space update time1: 0.3648 seconds
+2025-08-01 17:03:57 | DEBUG | Free space update time2: 5.0668 seconds
+2025-08-01 17:03:57 | DEBUG | Free space update time3: 5.3046 seconds
+2025-08-01 17:03:57 | DEBUG | Processing scan 211/703
+2025-08-01 17:04:08 | DEBUG | Occupied space update time: 0.3459 seconds
+2025-08-01 17:04:08 | DEBUG | Free space update time1: 0.3690 seconds
+2025-08-01 17:04:08 | DEBUG | Free space update time2: 5.3596 seconds
+2025-08-01 17:04:08 | DEBUG | Free space update time3: 5.4549 seconds
+2025-08-01 17:04:08 | DEBUG | Processing scan 214/703
+2025-08-01 17:04:20 | DEBUG | Occupied space update time: 0.3411 seconds
+2025-08-01 17:04:20 | DEBUG | Free space update time1: 0.3624 seconds
+2025-08-01 17:04:20 | DEBUG | Free space update time2: 5.6706 seconds
+2025-08-01 17:04:20 | DEBUG | Free space update time3: 5.6173 seconds
+2025-08-01 17:04:20 | DEBUG | Processing scan 217/703
+2025-08-01 17:04:33 | DEBUG | Occupied space update time: 0.3714 seconds
+2025-08-01 17:04:33 | DEBUG | Free space update time1: 0.3786 seconds
+2025-08-01 17:04:33 | DEBUG | Free space update time2: 5.6407 seconds
+2025-08-01 17:04:33 | DEBUG | Free space update time3: 5.9952 seconds
+2025-08-01 17:04:33 | DEBUG | Processing scan 220/703
+2025-08-01 17:04:46 | DEBUG | Occupied space update time: 0.3741 seconds
+2025-08-01 17:04:46 | DEBUG | Free space update time1: 0.4410 seconds
+2025-08-01 17:04:46 | DEBUG | Free space update time2: 6.0241 seconds
+2025-08-01 17:04:46 | DEBUG | Free space update time3: 6.5316 seconds
+2025-08-01 17:04:46 | DEBUG | Processing scan 223/703
+2025-08-01 17:04:59 | DEBUG | Occupied space update time: 0.4577 seconds
+2025-08-01 17:04:59 | DEBUG | Free space update time1: 0.5111 seconds
+2025-08-01 17:04:59 | DEBUG | Free space update time2: 5.9588 seconds
+2025-08-01 17:04:59 | DEBUG | Free space update time3: 5.9396 seconds
+2025-08-01 17:04:59 | DEBUG | Processing scan 226/703
+2025-08-01 17:05:12 | DEBUG | Occupied space update time: 0.3687 seconds
+2025-08-01 17:05:12 | DEBUG | Free space update time1: 0.4303 seconds
+2025-08-01 17:05:12 | DEBUG | Free space update time2: 6.0026 seconds
+2025-08-01 17:05:12 | DEBUG | Free space update time3: 5.9398 seconds
+2025-08-01 17:05:12 | DEBUG | Processing scan 229/703
+2025-08-01 17:05:25 | DEBUG | Occupied space update time: 0.3777 seconds
+2025-08-01 17:05:25 | DEBUG | Free space update time1: 0.4137 seconds
+2025-08-01 17:05:25 | DEBUG | Free space update time2: 6.1123 seconds
+2025-08-01 17:05:25 | DEBUG | Free space update time3: 5.8926 seconds
+2025-08-01 17:05:25 | DEBUG | Processing scan 232/703
+2025-08-01 17:05:37 | DEBUG | Occupied space update time: 0.3783 seconds
+2025-08-01 17:05:37 | DEBUG | Free space update time1: 0.4145 seconds
+2025-08-01 17:05:37 | DEBUG | Free space update time2: 5.7762 seconds
+2025-08-01 17:05:37 | DEBUG | Free space update time3: 6.2606 seconds
+2025-08-01 17:05:37 | DEBUG | Processing scan 235/703
+2025-08-01 17:05:50 | DEBUG | Occupied space update time: 0.4110 seconds
+2025-08-01 17:05:50 | DEBUG | Free space update time1: 0.4428 seconds
+2025-08-01 17:05:50 | DEBUG | Free space update time2: 5.8144 seconds
+2025-08-01 17:05:50 | DEBUG | Free space update time3: 6.2325 seconds
+2025-08-01 17:05:50 | DEBUG | Processing scan 238/703
+2025-08-01 17:06:04 | DEBUG | Occupied space update time: 0.3935 seconds
+2025-08-01 17:06:04 | DEBUG | Free space update time1: 0.4250 seconds
+2025-08-01 17:06:04 | DEBUG | Free space update time2: 5.9655 seconds
+2025-08-01 17:06:04 | DEBUG | Free space update time3: 6.5259 seconds
+2025-08-01 17:06:04 | DEBUG | Processing scan 241/703
